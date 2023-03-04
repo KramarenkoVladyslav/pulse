@@ -5,10 +5,10 @@ Written on:
 + SCSS
 + JavaScript
 
-Tools
+Tools:
 + Gulp
 
-Library
+Library:
 + jQuery
 
 Phpmailer
