@@ -8,4 +8,7 @@ Written on:
 Tools
 + Gulp
 
+Library
++ jQuery
+
 + And add phpmailer
