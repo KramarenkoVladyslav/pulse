@@ -1,0 +1,17 @@
+* {
+	box-sizing: border-box;
+	font-family: 'Museo Sans Cyrl', sans-serif;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+	-webkit-appearance: none;
+	background: #0a377e;
+	margin: 0;
+}
+
+.container {
+	max-width: 980px;
+	margin: 0 auto;
+	padding: 0 15px;
+}
