@@ -11,4 +11,5 @@ Tools
 Library
 + jQuery
 
-+ And add phpmailer
+Phpmailer
++ add phpmailer
