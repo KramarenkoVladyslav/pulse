@@ -2,7 +2,7 @@
 
 Written on: 
 + HTML
-+ SASS
++ SCSS
 + JavaScript
 
 Tools
