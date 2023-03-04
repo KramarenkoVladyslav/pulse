@@ -1,4 +1,4 @@
-# pulse
+# PULSE - ПО ПІДБОРУ ПУЛЬСОМЕТРА
 
 Written on: 
 + HTML
