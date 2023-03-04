@@ -12,4 +12,4 @@ Library
 + jQuery
 
 Phpmailer
-+ add phpmailer
++ Add phpmailer
